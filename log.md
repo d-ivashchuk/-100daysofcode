@@ -15,3 +15,12 @@
 **Thoughts:** Would be great if I had a mentor that knows everything about front-end so that I am not spending much time on just googling and trying to make things work.
 
 **Link to work:** [PetDashboard](Coming soon)
+
+### Day 3: August 05, 2018
+
+**Today's Progress**: Worked with styles of the app little bit, achieved desired back-end functionality for now, tomorrow there will be a lot of work with react-router.
+
+**Thoughts:** I really like how the community responds to questions and offers help when it is needed. Don't know for now, why everyone is accusing stack overflow of being toxic and impolite. Today I got stuck with couple of moments and help came in minutes if not in seconds.
+I will probably publish the app I am working on within next couple of days, it is not in any case ready, but it has some functionality.
+
+**Link to work:** [PetDashboard](Coming soon)
