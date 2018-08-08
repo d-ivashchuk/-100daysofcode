@@ -16,7 +16,7 @@
 
 **Link to work:** [PetDashboard](Coming soon)
 
-### Day 2: August 05, 2018
+### Day 2: August 06, 2018
 
 **Today's Progress**: Worked with styles of the app little bit, achieved desired back-end functionality for now, tomorrow there will be a lot of work with react-router.
 
@@ -25,10 +25,18 @@ I will probably publish the app I am working on within next couple of days, it i
 
 **Link to work:** [PetDashboard](Coming soon)
 
-### Day 3: August 05, 2018
+### Day 3: August 07, 2018
 
 **Today's Progress**: Revised react-router and through struggle got it working as I expected. Worked with styles little bit, added some cool features to the app. In the next days I will add responsiveness and several more features with regards to firebase and UI.
 
 **Thoughts:** It seems like most of the problem have lots of possible solutions and the only thing that stops you from seeing them is your experience. As days pass more creative ideas for solving the same problem come to mind.
 
 **Link to work:** [PetDashboard](Coming soon)
+
+### Day 4: August 08, 2018
+
+**Today's Progress**: Tinkered with UI, fixed some bugs, deployed the functional 0.1 version of app to gh-pages.
+
+**Thoughts:** Sometimes finding a good UI design is harder than to replicate the one give by designer or found elsewhere.
+
+**Link to work:** [PetDashboard](https://d-ivashchuk.github.io/pet-dashboard/)
